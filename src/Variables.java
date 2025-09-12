@@ -12,6 +12,19 @@ public class Variables {
         //  double          array
         //  char            object
         //  boolean
+//        There are 8 primitive data types in Java. These are:
+//
+//• byte: An 8-bit signed two's complement integer.
+//• short: A 16-bit signed two's complement integer.
+//• int: A 32-bit signed two's complement integer.
+//• long: A 64-bit signed two's complement integer.
+//• float: A single-precision 32-bit floating-point number.
+//• double: A double-precision 64-bit floating-point number.
+//• char: A 16-bit Unicode character.
+//• boolean: Represents one of two possible values: true or false.
+//
+
+
 
         // 2 Steps to creating a variable
         // ------------------------------
