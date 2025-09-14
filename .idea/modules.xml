@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arithmetic Operators/Arithmetic Operators.iml" filepath="$PROJECT_DIR$/Arithmetic Operators/Arithmetic Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewProject.iml" filepath="$PROJECT_DIR$/NewProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Programs/Practice Programs.iml" filepath="$PROJECT_DIR$/Practice Programs/Practice Programs.iml" />
     </modules>
   </component>
 </project>
