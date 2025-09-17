@@ -10,7 +10,7 @@ public class OR {
 
         String username;
 
-        System.out.println("Enter your new username: ");
+        System.out.print("Enter your new username: ");
         username = scanner.nextLine();
 
         if(username.length()<4 || username.length()>12){

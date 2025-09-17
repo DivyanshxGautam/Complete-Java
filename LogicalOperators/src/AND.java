@@ -10,7 +10,7 @@ public class AND {
             double temp;
             boolean isSunny = true;
 
-            System.out.println("Enter the temp (in Celsius): ");
+            System.out.print("Enter the temp (in Celsius): ");
             temp = scanner.nextDouble();
 
             if(temp<=30 && temp>=0 && isSunny){
