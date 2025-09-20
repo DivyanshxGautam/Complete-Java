@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arithmetic Operators/Arithmetic Operators.iml" filepath="$PROJECT_DIR$/Arithmetic Operators/Arithmetic Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Homework/Homework.iml" filepath="$PROJECT_DIR$/Homework/Homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/LOOPS/LOOPS.iml" filepath="$PROJECT_DIR$/LOOPS/LOOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogicalOperators/LogicalOperators.iml" filepath="$PROJECT_DIR$/LogicalOperators/LogicalOperators.iml" />
