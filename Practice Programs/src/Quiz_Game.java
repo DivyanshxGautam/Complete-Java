@@ -36,14 +36,13 @@ public class Quiz_Game {
             System.out.print("Enter your guess: ");
             guess = sc.nextInt();
 
+            System.out.println("********");
             if(guess == answers[i]){
-                System.out.println("********");
                 System.out.println("CORRECT!");
                 System.out.println("********");
                 score++;
             }
             else{
-                System.out.println("********");
                 System.out.println(" WRONG! ");
                 System.out.println("********");
             }
